@@ -1,40 +1,21 @@
 {
   "project_info": {
-    "project_number": "680900030606",
-    "project_id": "lazuu-43b4c",
-    "storage_bucket": "lazuu-43b4c.appspot.com"
+    "project_number": "839916042165",
+    "project_id": "pertama-e3cf4",
+    "storage_bucket": "pertama-e3cf4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:680900030606:android:a4105d91d489a0bed059df",
+        "mobilesdk_app_id": "1:839916042165:android:d27d790f87c48a8240cbfc",
         "android_client_info": {
-          "package_name": "com.example.flutter_todo_app"
+          "package_name": "ardi_todo.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAGXGILQFNzob1yzakozrEC5AQ6PDBSKCc"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:680900030606:android:71c3456c5fb1226ed059df",
-        "android_client_info": {
-          "package_name": "com.example.flutter_todo_app1"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAGXGILQFNzob1yzakozrEC5AQ6PDBSKCc"
+          "current_key": "AIzaSyCRl1J2X0XWUZGIp7ezlUQvOAM7edTusF8"
         }
       ],
       "services": {
